@@ -7,13 +7,13 @@ end
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '~> 5.0.2'
+gem 'rails', '~> 7.0.0'
 # Use Puma as the app server
 gem 'puma', '~> 3.0'
 
 # Use SCSS for stylesheets
 gem 'bootstrap-sass', '3.3.6'
-gem 'sass-rails', '~> 5.0'
+gem 'sass-rails', '~> 6.0', '>= 6.0.0'
 
 gem 'rails-controller-testing'
 # Use Uglifier as compressor for JavaScript assets
